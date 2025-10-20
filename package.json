@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SairajTripathy-0077/chat-application/issues"
   },
-  "homepage": "https://github.com/SairajTripathy-0077/chat-application#readme"
+  "homepage": "https://github.com/SairajTripathy-0077/chat-application#readme",
+  "dependencies": {
+    "node": "^25.0.0"
+  }
 }
